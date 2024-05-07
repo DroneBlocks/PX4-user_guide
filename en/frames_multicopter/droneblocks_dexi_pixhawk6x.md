@@ -42,6 +42,12 @@ Regardless of which flavor of DEXI you purchase, you will receive all of the com
 
 ### DEXI Frame
 
+![DEXI Frame](../../assets/airframes/multicopter/dexi_5/dexi_frame_1.jpg)
+
+Frame Weight | Hardware
+:-:|:-:
+![DEXI Frame Weight](../../assets/airframes/multicopter/dexi_5/dexi_frame_2.jpg) | ![DEXI Frame Weight](../../assets/airframes/multicopter/dexi_5/dexi_frame_3.jpg)
+
 Item | Description | Quantity
 ---|---|---
 Top Plate | Carbon fiber (2mm thick) with press nut for TPU battery tray | 1
