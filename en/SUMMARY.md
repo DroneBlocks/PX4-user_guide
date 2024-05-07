@@ -55,6 +55,7 @@
       - [Holybro Kopis 2](complete_vehicles_mc/holybro_kopis2.md)
       - [Bitcraze Crazyflie 2.1](complete_vehicles_mc/crazyflie21.md)
     - [Kits](frames_multicopter/kits.md)
+      - [DroneBlocks DEXI (Pixhawk 6X)](frames_multicopter/droneblocks_dexi_pixhawk6x.md)
       - [X500 v2 (Pixhawk 6C)](frames_multicopter/holybro_x500v2_pixhawk6c.md)
       - [X500 v2 (Pixhawk 5X)](frames_multicopter/holybro_x500V2_pixhawk5x.md)
       - [X500 (Pixhawk 4)](frames_multicopter/holybro_x500_pixhawk4.md)

@@ -17,6 +17,7 @@ Kits generally do not include:
 
 The following kits are currently available:
 
+- [DroneBlocks DEXI PX4 Development Kit](https://droneblocks.io/program/dexi-5-px4-stem-drone-kit/) (Pixhawk 6X)
 - [Holybro X500 v2 PX4 Development Kit](https://holybro.com/collections/x500-kits) (Pixhawk 6c) ([Build instructions](../frames_multicopter/holybro_x500v2_pixhawk6c.md))
 - [Holybro S500 Kit v2](https://holybro.com/collections/s500/products/s500-v2-development-kit) (Pixhawk 6c)
 - [Holybro QAV250 Kit](https://holybro.com/products/qav250-kit) (Pixhawk 6c)
@@ -28,6 +29,7 @@ The following kits are currently available:
 The build guides below show how to assemble a number of kits.
 Many kits vary only a little between revisions (for example, the new kit might simply upgrade the flight controller used, and is otherwise identical), so these are likely to be be useful for building the kits in the section above.
 
+- [DroneBlocks DEXI (Pixhawk 6X)](../frames_multicopter/droneblocks_dexi_pixhawk6x.md)
 - [Holybro X500 v2 (Pixhawk 6C)](../frames_multicopter/holybro_x500v2_pixhawk6c.md)
 - [Holybro X500 v2 (Pixhawk 5X)](../frames_multicopter/holybro_x500V2_pixhawk5x.md) — Discontinued (v2 kit uses Pixhawk 6c)
 - [Holybro X500 v1 (Pixhawk 4)](../frames_multicopter/holybro_x500_pixhawk4.md) — Discontinued (v2 kit uses Pixhawk 6c)
